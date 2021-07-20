@@ -30,4 +30,4 @@ to this "handouts" folder. The result should be a subdirectory called
 
 ## Collaborators
 
-- Megan Read
+- Megan Kramer: University of South Florida
